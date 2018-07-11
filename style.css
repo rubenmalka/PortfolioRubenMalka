@@ -15,7 +15,7 @@
 /*font-family: 'Crete Round', serif; */
 
 body{
-  background-image: url(images/ww.jpg);
+  background-image: url(images/2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
 	background-size: cover;
@@ -123,6 +123,7 @@ color:white;
 
 #logo_fixe { position : fixed; left : 10px; top : 10px;
 font-size: 5px;
+
 }
 
 /* image fullscreen */
