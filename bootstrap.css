@@ -2589,7 +2589,6 @@ fieldset[disabled] .form-control {
   cursor: not-allowed;
 }
 textarea.form-control {
-  height: auto;
 }
 input[type="search"] {
   -webkit-appearance: none;
@@ -2726,7 +2725,6 @@ select[multiple].input-sm {
 }
 .form-group-sm textarea.form-control,
 .form-group-sm select[multiple].form-control {
-  height: auto;
 }
 .form-group-sm .form-control-static {
   height: 30px;
@@ -2763,7 +2761,6 @@ select[multiple].input-lg {
 }
 .form-group-lg textarea.form-control,
 .form-group-lg select[multiple].form-control {
-  height: auto;
 }
 .form-group-lg .form-control-static {
   height: 46px;
