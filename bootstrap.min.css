@@ -1816,7 +1816,9 @@ output {
     cursor: not-allowed;
 }
 textarea.form-control {
+
 }
+
 input[type=search] {
     -webkit-appearance: none;
 }
@@ -1912,7 +1914,6 @@ select[multiple].input-sm, textarea.input-sm {
     line-height: 30px;
 }
 .form-group-sm select[multiple].form-control, .form-group-sm textarea.form-control {
-    height: auto;
 }
 .form-group-sm .form-control-static {
     height: 30px;
@@ -1947,7 +1948,6 @@ select[multiple].input-lg, textarea.input-lg {
     line-height: 46px;
 }
 .form-group-lg select[multiple].form-control, .form-group-lg textarea.form-control {
-    height: auto;
 }
 .form-group-lg .form-control-static {
     height: 46px;
