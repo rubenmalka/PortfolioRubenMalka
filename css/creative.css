@@ -292,7 +292,11 @@ header.masthead p {
   border-radius: 300px;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
-
+#logo {
+    vertical-align: middle;
+    border-style: none;
+    height: 45px;
+}
 .btn-xl {
   padding: 1rem 2rem;
 }
