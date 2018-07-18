@@ -1,60 +1,14 @@
-.technical .skillsArea {
-    padding: 0px;
-}
 .technical {
     background: #eeeeee;
     color: #474d5d;
 }
-.technical .skills {
-    margin: 0 auto;
-    margin-bottom: 23px;
-    text-align: center;
-    padding: 0px;
-    float: none;
+
+.technical .container {
+    padding-top: 85px;
+    padding-bottom: 69px;
 }
-.chart {
-    position: relative;
-    display: inline-block;
-    width: 152px;
-    height: 152px;
-    margin-bottom: 26px;
-    text-align: center;
-}
-.skilBg {
-    background: url(../images/skills.png) no-repeat 0 0;
-}
-* {
-    padding: 0;
-    margin: 0;
-}
-.percent {
-    display: inline-block;
-    font-size: 21px;
+
+.technical {
+    background: #eeeeee;
     color: #474d5d;
-    line-height: 152px;
-    z-index: 2;
-}
-* {
-    padding: 0;
-    margin: 0;
-}
-.chart {
-    position: relative;
-    display: inline-block;
-    width: 152px;
-    height: 152px;
-    margin-bottom: 26px;
-    text-align: center;
-}
-.chart canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-audio, canvas, video {
-    display: inline-block;
-}
-* {
-    padding: 0;
-    margin: 0;
 }
